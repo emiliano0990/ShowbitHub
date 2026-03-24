@@ -1,0 +1,14 @@
+/* Main stylesheet for ShowbitHub */
+
+:root {
+  --ink: #0a0a0a;
+  --paper: #f4f0e8;
+  --neon: #b8f53e;
+  --blue: #4fa3e8;
+  --red: #e85b4f;
+}
+
+body {
+  background: var(--ink);
+  color: var(--paper);
+}
