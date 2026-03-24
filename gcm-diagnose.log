@@ -1,0 +1,206 @@
+﻿Diagnose log at 2026-03-24T14:52:32Z
+
+AppPath: D:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: D:\Program Files\Git\mingw64\bin\
+Version: 2.7.3+5fa7116896c82164996a609accd1c5ad90fe730a
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+OneDriveConsumer=C:\Users\Lab01-01\OneDrive
+ProgramFiles(x86)=C:\Program Files (x86)
+MSYSTEM=MINGW64
+ProgramW6432=C:\Program Files
+ChocolateyInstall=C:\ProgramData\chocolatey
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 151 Stepping 2, GenuineIntel
+TMP=C:\Users\Lab01-01\AppData\Local\Temp
+LOCAL_GIT_DIRECTORY=C:\Users\Lab01-01\AppData\Local\GitHubDesktop\app-3.5.6\resources\app\git
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\Lab01-01\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\493597c785d4c5cb\askpass-main.js
+Path=D:/Program Files/Git/mingw64/libexec/git-core;D:\Program Files\Git\mingw64\bin;D:\Program Files\Git\usr\bin;C:\Users\Lab01-01\bin;c:\Users\Lab01-01\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\Lab01-01\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Program Files (x86)\Microsoft\Edge\Application;C:\app\Lab01-01\product\21c\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;D:\Program Files\Git\cmd;C:\Users\Lab01-01\AppData\Local\Microsoft\WindowsApps;C:\Users\Lab01-01\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\nodejs\node_modules\npm\;C:\Users\Lab01-01\.dotnet\tools;C:\Users\Lab01-01\AppData\Roaming\npm
+EDGE_METRICS_SESSION_ID=231
+USERPROFILE=C:\Users\Lab01-01
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-42fc8f59c8-sock
+USERDOMAIN=DESKTOP-1R8E4UC
+PROCESSOR_REVISION=9702
+ChocolateyLastPathUpdate=133885873047587019
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+EDGE_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_25580_NUFQJBMUGVRGOXJJ
+TEMP=C:\Users\Lab01-01\AppData\Local\Temp
+USERNAME=Lab01-01
+SystemRoot=C:\WINDOWS
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_22176_YXFSXRUEGMYXZTOW
+GIT_EXEC_PATH=D:/Program Files/Git/mingw64/libexec/git-core
+PLINK_PROTOCOL=ssh
+GIT_PAGER=cat
+OneDrive=C:\Users\Lab01-01\OneDrive
+PROCESSOR_ARCHITECTURE=AMD64
+CommonProgramFiles=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+VSCODE_PYTHON_AUTOACTIVATE_GUARD=1
+ProgramData=C:\ProgramData
+LANG=en_US.UTF-8
+GIT_ASKPASS=c:\Users\Lab01-01\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\493597c785d4c5cb\askpass.sh
+HOMEPATH=\Users\Lab01-01
+EDGE_USER_DATA_DIR=C:\Users\Lab01-01\AppData\Local\Microsoft\Edge\User Data
+COMPUTERNAME=DESKTOP-1R8E4UC
+VSCODE_INJECTION=1
+ALLUSERSPROFILE=C:\ProgramData
+CommonProgramW6432=C:\Program Files\Common Files
+GIT_EDITOR=:
+TERM=xterm-256color
+PT8HOME=C:\Program Files\Cisco Packet Tracer 9.0.0
+DriverData=C:\Windows\System32\Drivers\DriverData
+HOMEDRIVE=C:
+windir=C:\WINDOWS
+GIT_TRACE2_PARENT_SID=fb09f399-da08-4009-8b9b-d221f798c3da
+SystemDrive=C:
+NUMBER_OF_PROCESSORS=20
+OS=Windows_NT
+GIT_MERGE_AUTOEDIT=no
+ProgramFiles=C:\Program Files
+ComSpec=C:\WINDOWS\system32\cmd.exe
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-1R8E4UC
+COMPONENT_INSTALLER_DIR=C:\Users\Lab01-01\AppData\Local\Microsoft\Edge\User Data
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.CPL
+HOME=C:\Users\Lab01-01
+LOGONSERVER=\\DESKTOP-1R8E4UC
+PSModulePath=C:\Users\Lab01-01\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\PowerShell\Modules\
+TMPDIR=C:\Users\Lab01-01\AppData\Local\Temp
+APPDATA=C:\Users\Lab01-01\AppData\Roaming
+EDGE_METRICS_CLIENT_ID_HASH=-1453563712995189981
+PROCESSOR_LEVEL=6
+LOCALAPPDATA=C:\Users\Lab01-01\AppData\Local
+VSCODE_GIT_ASKPASS_NODE=C:\Users\Lab01-01\AppData\Local\Programs\Microsoft VS Code\code.exe
+TERM_PROGRAM_VERSION=1.112.0
+EDGE_BROWSER_PID=25580
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+COLORTERM=truecolor
+PUBLIC=C:\Users\Public
+TERM_PROGRAM=vscode
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\Lab01-01\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\Lab01-01\AppData\Local\Temp\885e4918996aaff0d60b640e'... OK
+Reading from temporary file 'C:\Users\Lab01-01\AppData\Local\Temp\885e4918996aaff0d60b640e'... OK
+Deleting temporary file 'C:\Users\Lab01-01\AppData\Local\Temp\885e4918996aaff0d60b640e'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\Lab01-01
+UserDataDirectoryPath: C:\Users\Lab01-01\.gcm
+GetCurrentDirectory(): C:\Users\Lab01-01\Documents\GitHub\ShowbitHub
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:62305/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.53.0.windows.2'
+Locating current repository...Git repository at 'C:/Users/Lab01-01/Documents/GitHub/ShowbitHub/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:D:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:D:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:D:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:D:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:D:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:D:/Program Files/Git/etc/gitconfig	http.sslbackend=schannel
+file:D:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:D:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:D:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:D:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:D:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:D:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:D:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/Lab01-01/.gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/Lab01-01/.gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/Lab01-01/.gitconfig	filter.lfs.required=true
+file:C:/Users/Lab01-01/.gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/Lab01-01/.gitconfig	user.name=emiliano0990
+file:C:/Users/Lab01-01/.gitconfig	user.email=emilianoperalta0990@gmail.com
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	submodule.active=.
+file:.git/config	remote.origin.url=https://github.com/emiliano0990/ShowbitHub.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+file:.git/config	branch.main.vscode-merge-base=origin/main
+file:.git/config	lfs.repositoryformatversion=0
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\Lab01-01\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\Lab01-01\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
